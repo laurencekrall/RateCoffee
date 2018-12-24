@@ -31,8 +31,10 @@ namespace RateCoffee.Api.Controllers
 		[SwaggerResponse(HttpStatusCode.NotFound)]
 		public string Get(int id)
 		{
-			return "value123";
-		}
+            var bl = new RateCoffee.Service.CoffeeRepo();
+            var data = bl.Add(id.ToString());
+            return data.ToString();
+        }
 
 		// POST api/values
 		[SwaggerOperation("Create")]

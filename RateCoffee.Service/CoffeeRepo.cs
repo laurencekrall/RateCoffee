@@ -27,5 +27,21 @@ namespace RateCoffee.Service
 				return list;
 			}
 		}
+
+        public bool Add(string value)
+        {
+            using (var db = new RateCoffee.Data.RateCoffeeContext())
+            {
+                var coffee = new Data.Classes.Coffee()
+                {
+                    Name = value,
+                    Roast = Data.Classes.Roast.Light,
+                    Type = Data.Classes.CoffeeType.None
+                };
+                db.Coffee.Add(coffee);
+                db.SaveChanges();
+            }
+            return true;
+        }
     }
 }

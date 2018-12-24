@@ -8,8 +8,9 @@ namespace RateCoffee.Data.Classes
 {
 	public enum CoffeeType
 	{
+        None,
+		Blend,
 		Decaf,
-		Flavoured,
-		Blend
-	}
+		Flavoured
+    }
 }
