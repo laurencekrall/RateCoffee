@@ -5,11 +5,19 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using Swashbuckle.Swagger.Annotations;
+using RateCoffee.Service;
 
 namespace RateCoffee.Api.Controllers
 {
 	public class ValuesController : ApiController
 	{
+        RateCoffee.Service.ICoffeeRepo _repo;
+
+        public ValuesController(ICoffeeRepo repo)
+        {
+            _repo = repo;
+        }
+
 		//// GET api/values
 		//[SwaggerOperation("GetAll")]
 		//public IEnumerable<string> Get()
@@ -20,8 +28,7 @@ namespace RateCoffee.Api.Controllers
 		[SwaggerOperation("GetAllData")]
 		public IEnumerable<string> Get()
 		{
-			var bl = new RateCoffee.Service.CoffeeRepo();
-			var data = bl.GetStuff();
+			var data = _repo.GetStuff();
 			return data;
 		}
 
@@ -31,8 +38,7 @@ namespace RateCoffee.Api.Controllers
 		[SwaggerResponse(HttpStatusCode.NotFound)]
 		public string Get(int id)
 		{
-            var bl = new RateCoffee.Service.CoffeeRepo();
-            var data = bl.Add(id.ToString());
+            var data = _repo.Add(id.ToString());
             return data.ToString();
         }
 

@@ -68,3 +68,15 @@
    at RateCoffee.Api.Controllers.ValuesController.Get(Int32 id) in C:\Users\laure\Source\Repos\RateCoffee\RateCoffee.Api\Controllers\ValuesController.cs:line 36
 2018-12-28 21:54:50.4412|INFO|RateCoffee.Api.Startup|
 2018-12-28 21:54:50.4528|INFO|RateCoffee.Api.Startup|<string xmlns="http://schemas.microsoft.com/2003/10/Serialization/"></string>
+2018-12-28 23:00:05.0475|INFO|RateCoffee.Api.Startup|
+2018-12-28 23:00:05.1906|INFO|RateCoffee.Api.Startup|
+2018-12-28 23:00:05.2229|INFO|RateCoffee.Api.Startup|
+2018-12-28 23:00:05.2372|INFO|RateCoffee.Api.Startup|
+2018-12-28 23:00:16.4130|INFO|RateCoffee.Api.Startup|
+2018-12-28 23:00:16.4130|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string></ArrayOfstring>
+2018-12-28 23:00:50.3709|INFO|RateCoffee.Api.Startup|
+2018-12-28 23:00:50.3911|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string></ArrayOfstring>
+2018-12-28 23:01:21.0878|INFO|RateCoffee.Api.Startup|
+2018-12-28 23:01:21.0878|INFO|RateCoffee.Api.Startup|<string xmlns="http://schemas.microsoft.com/2003/10/Serialization/">True</string>
+2018-12-28 23:01:27.0117|INFO|RateCoffee.Api.Startup|
+2018-12-28 23:01:27.0247|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>

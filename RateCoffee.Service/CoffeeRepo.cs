@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RateCoffee.Service
 {
-    public class CoffeeRepo
+    public class CoffeeRepo : ICoffeeRepo
     {
 		public List<string> GetStuff()
 		{

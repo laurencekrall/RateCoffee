@@ -1,7 +1,11 @@
-﻿using System;
+﻿using NLog;
+using RateCoffee.Service;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using Unity;
+using Unity.AspNet.WebApi;
 
 namespace RateCoffee.Api
 {
@@ -9,10 +13,16 @@ namespace RateCoffee.Api
 	{
 		public static void Register(HttpConfiguration config)
 		{
-			// Web API configuration and services
+            var container = new UnityContainer();
+            container.RegisterType<ILogger, Logger>();
+            container.RegisterType<ICoffeeRepo, CoffeeRepo>();
 
-			// Web API routes
-			config.MapHttpAttributeRoutes();
+            config.DependencyResolver = new UnityDependencyResolver(container);
+
+            // Web API configuration and services
+
+            // Web API routes
+            config.MapHttpAttributeRoutes();
 
 			config.Routes.MapHttpRoute(
 				name: "DefaultApi",
