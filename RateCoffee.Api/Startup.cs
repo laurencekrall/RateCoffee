@@ -16,7 +16,8 @@ namespace RateCoffee.Api
             HttpConfiguration config = new HttpConfiguration();
 
             config.MapHttpAttributeRoutes();
-            app.Use<LoggingMiddleware>();
+
+            app.Use(typeof(LoggingMiddleware), NLog.LogManager.GetCurrentClassLogger());
             app.UseWebApi(config);
         }
     }

@@ -1,0 +1,70 @@
+2018-12-26 19:56:28.4567|ERROR|RateCoffee.Api.Controllers.ValuesController|System.Exception: no no no
+   at RateCoffee.Api.Controllers.ValuesController.Get(Int32 id) in C:\Users\laure\Source\Repos\RateCoffee\RateCoffee.Api\Controllers\ValuesController.cs:line 36
+2018-12-26 20:03:18.2116|ERROR|RateCoffee.Api.Controllers.ValuesController|System.Exception: no no no
+   at RateCoffee.Api.Controllers.ValuesController.Get(Int32 id) in C:\Users\laure\Source\Repos\RateCoffee\RateCoffee.Api\Controllers\ValuesController.cs:line 36
+2018-12-26 22:39:39.0835|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/, message =  }
+2018-12-26 22:39:39.7247|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/, message =  }
+2018-12-26 22:39:39.7816|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-26 22:39:39.8594|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-26 22:40:04.7685|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/api/values, message =  }
+2018-12-26 22:40:09.7098|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-26 22:45:25.3988|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/, message =  }
+2018-12-26 22:45:26.0498|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/, message =  }
+2018-12-26 22:45:26.0907|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-26 22:45:26.1406|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-26 22:45:30.8532|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/api/values, message =  }
+2018-12-26 22:45:35.6405|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-26 22:46:03.0241|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/api/values, message =  }
+2018-12-26 22:46:03.0650|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-26 22:46:06.5129|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/api/values, message =  }
+2018-12-26 22:46:06.5593|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-26 22:46:07.6256|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/api/values, message =  }
+2018-12-26 22:46:07.6645|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-26 23:11:09.6780|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/, message =  }
+2018-12-26 23:11:11.0104|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/, message =  }
+2018-12-26 23:11:11.0872|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-26 23:11:16.9113|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-26 23:11:22.2590|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/api/values, message =  }
+2018-12-26 23:11:27.9330|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-27 00:29:57.7322|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/, message =  }
+2018-12-27 00:29:58.4732|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/, message =  }
+2018-12-27 00:30:18.5097|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/api/values, message =  }
+2018-12-27 00:51:44.3170|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/, message =  }
+2018-12-27 00:51:45.0171|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/, message =  }
+2018-12-27 00:51:45.0540|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-27 00:51:48.5892|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-27 00:51:53.6256|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/api/values, message =  }
+2018-12-27 00:51:56.0282|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/api/values, message =  }
+2018-12-27 00:51:58.8287|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-27 00:51:58.8287|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-27 00:52:06.5658|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/api/values, message =  }
+2018-12-27 00:52:06.6586|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-27 00:53:27.9188|INFO|RateCoffee.Api.Startup|{ remoteIpAddress = ::1, method = GET, uri = http://localhost:51416/api/values, message =  }
+2018-12-27 00:54:54.4324|INFO|RateCoffee.Api.Startup|{ statusCode = 200, reasonPhrase = OK, message =  }
+2018-12-27 00:59:03.3412|INFO|RateCoffee.Api.Startup|
+2018-12-27 00:59:03.4190|INFO|RateCoffee.Api.Startup|
+2018-12-27 00:59:12.1781|INFO|RateCoffee.Api.Startup|
+2018-12-27 00:59:12.7716|INFO|RateCoffee.Api.Startup|
+2018-12-27 00:59:15.5843|INFO|RateCoffee.Api.Startup|
+2018-12-27 00:59:16.4673|INFO|RateCoffee.Api.Startup|
+2018-12-27 00:59:24.6384|INFO|RateCoffee.Api.Startup|
+2018-12-27 01:00:26.8859|INFO|RateCoffee.Api.Startup|
+2018-12-28 21:33:03.6906|INFO|RateCoffee.Api.Startup|
+2018-12-28 21:33:03.7955|INFO|RateCoffee.Api.Startup|
+2018-12-28 21:33:46.1689|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string></ArrayOfstring>
+2018-12-28 21:48:35.3179|INFO|RateCoffee.Api.Startup|
+2018-12-28 21:48:35.4081|INFO|RateCoffee.Api.Startup|
+2018-12-28 21:48:35.4975|INFO|RateCoffee.Api.Startup|
+2018-12-28 21:48:35.5178|INFO|RateCoffee.Api.Startup|
+2018-12-28 21:51:54.4813|INFO|RateCoffee.Api.Startup|
+2018-12-28 21:51:54.4945|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string></ArrayOfstring>
+2018-12-28 21:51:58.9572|INFO|RateCoffee.Api.Startup|
+2018-12-28 21:51:58.9657|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string></ArrayOfstring>
+2018-12-28 21:52:07.4729|INFO|RateCoffee.Api.Startup|
+2018-12-28 21:52:07.4841|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string></ArrayOfstring>
+2018-12-28 21:52:10.6597|INFO|RateCoffee.Api.Startup|
+2018-12-28 21:52:10.6758|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string></ArrayOfstring>
+2018-12-28 21:54:50.4109|ERROR|RateCoffee.Api.Controllers.ValuesController|System.Exception: no no no
+   at RateCoffee.Api.Controllers.ValuesController.Get(Int32 id) in C:\Users\laure\Source\Repos\RateCoffee\RateCoffee.Api\Controllers\ValuesController.cs:line 36
+2018-12-28 21:54:50.4412|INFO|RateCoffee.Api.Startup|
+2018-12-28 21:54:50.4528|INFO|RateCoffee.Api.Startup|<string xmlns="http://schemas.microsoft.com/2003/10/Serialization/"></string>
