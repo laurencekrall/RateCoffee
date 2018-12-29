@@ -80,3 +80,193 @@
 2018-12-28 23:01:21.0878|INFO|RateCoffee.Api.Startup|<string xmlns="http://schemas.microsoft.com/2003/10/Serialization/">True</string>
 2018-12-28 23:01:27.0117|INFO|RateCoffee.Api.Startup|
 2018-12-28 23:01:27.0247|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:42:18.1832|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:42:18.2969|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:42:18.3507|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:42:18.3657|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:42:35.3965|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:42:35.3965|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:42:43.9098|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:42:43.9207|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:42:46.4741|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:42:46.4741|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:42:47.1722|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:42:47.1832|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:42:48.1211|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:42:48.1410|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:42:49.2457|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:42:49.2554|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:44:58.6825|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:44:58.7064|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:44:59.8945|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:44:59.9085|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:45:01.4842|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:45:01.4951|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:45:01.9998|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:45:02.0098|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:45:02.5566|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:45:02.5675|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:45:03.0284|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:45:03.0394|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:45:03.5514|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:45:03.5514|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:45:04.8039|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:45:04.8039|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string></ArrayOfstring>
+2018-12-29 15:45:20.6560|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:45:20.6660|INFO|RateCoffee.Api.Startup|<string xmlns="http://schemas.microsoft.com/2003/10/Serialization/">True</string>
+2018-12-29 15:45:26.7930|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:45:26.8040|INFO|RateCoffee.Api.Startup|<string xmlns="http://schemas.microsoft.com/2003/10/Serialization/">True</string>
+2018-12-29 15:46:33.5601|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:46:33.5850|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string><string>20</string><string>22</string></ArrayOfstring>
+2018-12-29 15:46:35.3610|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:46:35.3720|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string><string>20</string><string>22</string></ArrayOfstring>
+2018-12-29 15:46:36.1261|INFO|RateCoffee.Api.Startup|
+2018-12-29 15:46:36.1381|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string><string>20</string><string>22</string></ArrayOfstring>
+2018-12-29 16:24:27.1176|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:24:27.2543|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:24:27.2981|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:24:27.3141|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:24:31.6287|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:24:31.6387|INFO|RateCoffee.Api.Startup|<Error><Message>An error has occurred.</Message><ExceptionMessage>An error occurred when trying to create a controller of type 'ValuesController'. Make sure that the controller has a parameterless public constructor.</ExceptionMessage><ExceptionType>System.InvalidOperationException</ExceptionType><StackTrace>   at System.Web.Http.Dispatcher.DefaultHttpControllerActivator.Create(HttpRequestMessage request, HttpControllerDescriptor controllerDescriptor, Type controllerType)
+   at System.Web.Http.Controllers.HttpControllerDescriptor.CreateController(HttpRequestMessage request)
+   at System.Web.Http.Dispatcher.HttpControllerDispatcher.&lt;SendAsync&gt;d__15.MoveNext()</StackTrace><InnerException><Message>An error has occurred.</Message><ExceptionMessage>Resolution of the dependency failed, type = 'RateCoffee.Api.Controllers.ValuesController', name = '(none)'.
+Exception occurred while: while resolving.
+Exception is: InvalidOperationException - The type Logger does not have an accessible constructor.
+-----------------------------------------------
+At the time of the exception, the container was: 
+  Resolving RateCoffee.Api.Controllers.ValuesController,(none)
+  Resolving parameter 'logger' of constructor RateCoffee.Api.Controllers.ValuesController(RateCoffee.Service.ICoffeeService coffeeService, NLog.ILogger logger)
+    Resolving NLog.Logger,(none) (mapped from NLog.ILogger, (none))
+</ExceptionMessage><ExceptionType>Unity.Exceptions.ResolutionFailedException</ExceptionType><StackTrace>   at Unity.UnityContainer.ThrowingBuildUp(IBuilderContext context)
+   at Unity.UnityContainer.Resolve(Type typeToBuild, String nameToBuild, ResolverOverride[] resolverOverrides)
+   at Unity.UnityContainerExtensions.Resolve(IUnityContainer container, Type t, ResolverOverride[] overrides)
+   at Unity.AspNet.WebApi.UnityDependencyResolver.SharedDependencyScope.GetService(Type serviceType)
+   at System.Web.Http.Dispatcher.DefaultHttpControllerActivator.GetInstanceOrActivator(HttpRequestMessage request, Type controllerType, Func`1&amp; activator)
+   at System.Web.Http.Dispatcher.DefaultHttpControllerActivator.Create(HttpRequestMessage request, HttpControllerDescriptor controllerDescriptor, Type controllerType)</StackTrace><InnerException><Message>An error has occurred.</Message><ExceptionMessage>The type Logger does not have an accessible constructor.</ExceptionMessage><ExceptionType>System.InvalidOperationException</ExceptionType><StackTrace>   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.Creation.DynamicMethodConstructorStrategy.ThrowForNullExistingObject(IBuilderContext context)
+   at lambda_method(Closure , IBuilderContext )
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicBuildPlanGenerationContext.&lt;&gt;c__DisplayClass16_0.&lt;GetBuildMethod&gt;b__0(IBuilderContext context)
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Unity.Strategies.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Unity.Builder.BuilderContext.NewBuildUp(Type type, String name, Action`1 childCustomizationBlock)
+   at Unity.ResolverPolicy.NamedTypeDependencyResolverPolicy.Resolve(IBuilderContext context)
+   at lambda_method(Closure , IBuilderContext )
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicBuildPlanGenerationContext.&lt;&gt;c__DisplayClass16_0.&lt;GetBuildMethod&gt;b__0(IBuilderContext context)
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Unity.Strategies.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Unity.UnityContainer.ThrowingBuildUp(IBuilderContext context)</StackTrace></InnerException></InnerException></Error>
+2018-12-29 16:26:23.7725|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:26:23.8593|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:26:23.8912|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:26:23.9011|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:26:27.7629|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:26:27.7739|INFO|RateCoffee.Api.Startup|<Error><Message>An error has occurred.</Message><ExceptionMessage>An error occurred when trying to create a controller of type 'ValuesController'. Make sure that the controller has a parameterless public constructor.</ExceptionMessage><ExceptionType>System.InvalidOperationException</ExceptionType><StackTrace>   at System.Web.Http.Dispatcher.DefaultHttpControllerActivator.Create(HttpRequestMessage request, HttpControllerDescriptor controllerDescriptor, Type controllerType)
+   at System.Web.Http.Controllers.HttpControllerDescriptor.CreateController(HttpRequestMessage request)
+   at System.Web.Http.Dispatcher.HttpControllerDispatcher.&lt;SendAsync&gt;d__15.MoveNext()</StackTrace><InnerException><Message>An error has occurred.</Message><ExceptionMessage>Resolution of the dependency failed, type = 'RateCoffee.Api.Controllers.ValuesController', name = '(none)'.
+Exception occurred while: while resolving.
+Exception is: InvalidOperationException - The type Logger does not have an accessible constructor.
+-----------------------------------------------
+At the time of the exception, the container was: 
+  Resolving RateCoffee.Api.Controllers.ValuesController,(none)
+  Resolving parameter 'logger' of constructor RateCoffee.Api.Controllers.ValuesController(RateCoffee.Service.ICoffeeService coffeeService, NLog.ILogger logger)
+    Resolving NLog.Logger,(none) (mapped from NLog.ILogger, (none))
+</ExceptionMessage><ExceptionType>Unity.Exceptions.ResolutionFailedException</ExceptionType><StackTrace>   at Unity.UnityContainer.ThrowingBuildUp(IBuilderContext context)
+   at Unity.UnityContainer.Resolve(Type typeToBuild, String nameToBuild, ResolverOverride[] resolverOverrides)
+   at Unity.UnityContainerExtensions.Resolve(IUnityContainer container, Type t, ResolverOverride[] overrides)
+   at Unity.AspNet.WebApi.UnityDependencyResolver.SharedDependencyScope.GetService(Type serviceType)
+   at System.Web.Http.Dispatcher.DefaultHttpControllerActivator.GetInstanceOrActivator(HttpRequestMessage request, Type controllerType, Func`1&amp; activator)
+   at System.Web.Http.Dispatcher.DefaultHttpControllerActivator.Create(HttpRequestMessage request, HttpControllerDescriptor controllerDescriptor, Type controllerType)</StackTrace><InnerException><Message>An error has occurred.</Message><ExceptionMessage>The type Logger does not have an accessible constructor.</ExceptionMessage><ExceptionType>System.InvalidOperationException</ExceptionType><StackTrace>   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.Creation.DynamicMethodConstructorStrategy.ThrowForNullExistingObject(IBuilderContext context)
+   at lambda_method(Closure , IBuilderContext )
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicBuildPlanGenerationContext.&lt;&gt;c__DisplayClass16_0.&lt;GetBuildMethod&gt;b__0(IBuilderContext context)
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Unity.Strategies.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Unity.Builder.BuilderContext.NewBuildUp(Type type, String name, Action`1 childCustomizationBlock)
+   at Unity.ResolverPolicy.NamedTypeDependencyResolverPolicy.Resolve(IBuilderContext context)
+   at lambda_method(Closure , IBuilderContext )
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicBuildPlanGenerationContext.&lt;&gt;c__DisplayClass16_0.&lt;GetBuildMethod&gt;b__0(IBuilderContext context)
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Unity.Strategies.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Unity.UnityContainer.ThrowingBuildUp(IBuilderContext context)</StackTrace></InnerException></InnerException></Error>
+2018-12-29 16:26:30.2737|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:26:30.2857|INFO|RateCoffee.Api.Startup|<Error><Message>An error has occurred.</Message><ExceptionMessage>An error occurred when trying to create a controller of type 'ValuesController'. Make sure that the controller has a parameterless public constructor.</ExceptionMessage><ExceptionType>System.InvalidOperationException</ExceptionType><StackTrace>   at System.Web.Http.Dispatcher.DefaultHttpControllerActivator.Create(HttpRequestMessage request, HttpControllerDescriptor controllerDescriptor, Type controllerType)
+   at System.Web.Http.Controllers.HttpControllerDescriptor.CreateController(HttpRequestMessage request)
+   at System.Web.Http.Dispatcher.HttpControllerDispatcher.&lt;SendAsync&gt;d__15.MoveNext()</StackTrace><InnerException><Message>An error has occurred.</Message><ExceptionMessage>Resolution of the dependency failed, type = 'RateCoffee.Api.Controllers.ValuesController', name = '(none)'.
+Exception occurred while: while resolving.
+Exception is: InvalidOperationException - The type Logger does not have an accessible constructor.
+-----------------------------------------------
+At the time of the exception, the container was: 
+  Resolving RateCoffee.Api.Controllers.ValuesController,(none)
+  Resolving parameter 'logger' of constructor RateCoffee.Api.Controllers.ValuesController(RateCoffee.Service.ICoffeeService coffeeService, NLog.ILogger logger)
+    Resolving NLog.Logger,(none) (mapped from NLog.ILogger, (none))
+</ExceptionMessage><ExceptionType>Unity.Exceptions.ResolutionFailedException</ExceptionType><StackTrace>   at Unity.UnityContainer.ThrowingBuildUp(IBuilderContext context)
+   at Unity.UnityContainer.Resolve(Type typeToBuild, String nameToBuild, ResolverOverride[] resolverOverrides)
+   at Unity.UnityContainerExtensions.Resolve(IUnityContainer container, Type t, ResolverOverride[] overrides)
+   at Unity.AspNet.WebApi.UnityDependencyResolver.SharedDependencyScope.GetService(Type serviceType)
+   at System.Web.Http.Dispatcher.DefaultHttpControllerActivator.GetInstanceOrActivator(HttpRequestMessage request, Type controllerType, Func`1&amp; activator)
+   at System.Web.Http.Dispatcher.DefaultHttpControllerActivator.Create(HttpRequestMessage request, HttpControllerDescriptor controllerDescriptor, Type controllerType)</StackTrace><InnerException><Message>An error has occurred.</Message><ExceptionMessage>The type Logger does not have an accessible constructor.</ExceptionMessage><ExceptionType>System.InvalidOperationException</ExceptionType><StackTrace>   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.Creation.DynamicMethodConstructorStrategy.ThrowForNullExistingObject(IBuilderContext context)
+   at lambda_method(Closure , IBuilderContext )
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicBuildPlanGenerationContext.&lt;&gt;c__DisplayClass16_0.&lt;GetBuildMethod&gt;b__0(IBuilderContext context)
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Unity.Strategies.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Unity.Builder.BuilderContext.NewBuildUp(Type type, String name, Action`1 childCustomizationBlock)
+   at Unity.ResolverPolicy.NamedTypeDependencyResolverPolicy.Resolve(IBuilderContext context)
+   at lambda_method(Closure , IBuilderContext )
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicBuildPlanGenerationContext.&lt;&gt;c__DisplayClass16_0.&lt;GetBuildMethod&gt;b__0(IBuilderContext context)
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Unity.Strategies.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Unity.UnityContainer.ThrowingBuildUp(IBuilderContext context)</StackTrace></InnerException></InnerException></Error>
+2018-12-29 16:32:40.6810|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:32:40.7723|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:32:40.8062|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:32:40.8172|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:32:45.4348|INFO|RateCoffee.Api.Startup|
+2018-12-29 16:32:45.4468|INFO|RateCoffee.Api.Startup|<Error><Message>An error has occurred.</Message><ExceptionMessage>An error occurred when trying to create a controller of type 'ValuesController'. Make sure that the controller has a parameterless public constructor.</ExceptionMessage><ExceptionType>System.InvalidOperationException</ExceptionType><StackTrace>   at System.Web.Http.Dispatcher.DefaultHttpControllerActivator.Create(HttpRequestMessage request, HttpControllerDescriptor controllerDescriptor, Type controllerType)
+   at System.Web.Http.Controllers.HttpControllerDescriptor.CreateController(HttpRequestMessage request)
+   at System.Web.Http.Dispatcher.HttpControllerDispatcher.&lt;SendAsync&gt;d__15.MoveNext()</StackTrace><InnerException><Message>An error has occurred.</Message><ExceptionMessage>Resolution of the dependency failed, type = 'RateCoffee.Api.Controllers.ValuesController', name = '(none)'.
+Exception occurred while: while resolving.
+Exception is: InvalidOperationException - The type Logger does not have an accessible constructor.
+-----------------------------------------------
+At the time of the exception, the container was: 
+  Resolving RateCoffee.Api.Controllers.ValuesController,(none)
+  Resolving parameter 'logger' of constructor RateCoffee.Api.Controllers.ValuesController(RateCoffee.Service.ICoffeeService coffeeService, NLog.ILogger logger)
+    Resolving NLog.Logger,(none) (mapped from NLog.ILogger, (none))
+</ExceptionMessage><ExceptionType>Unity.Exceptions.ResolutionFailedException</ExceptionType><StackTrace>   at Unity.UnityContainer.ThrowingBuildUp(IBuilderContext context)
+   at Unity.UnityContainer.Resolve(Type typeToBuild, String nameToBuild, ResolverOverride[] resolverOverrides)
+   at Unity.UnityContainerExtensions.Resolve(IUnityContainer container, Type t, ResolverOverride[] overrides)
+   at Unity.AspNet.WebApi.UnityDependencyResolver.SharedDependencyScope.GetService(Type serviceType)
+   at System.Web.Http.Dispatcher.DefaultHttpControllerActivator.GetInstanceOrActivator(HttpRequestMessage request, Type controllerType, Func`1&amp; activator)
+   at System.Web.Http.Dispatcher.DefaultHttpControllerActivator.Create(HttpRequestMessage request, HttpControllerDescriptor controllerDescriptor, Type controllerType)</StackTrace><InnerException><Message>An error has occurred.</Message><ExceptionMessage>The type Logger does not have an accessible constructor.</ExceptionMessage><ExceptionType>System.InvalidOperationException</ExceptionType><StackTrace>   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.Creation.DynamicMethodConstructorStrategy.ThrowForNullExistingObject(IBuilderContext context)
+   at lambda_method(Closure , IBuilderContext )
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicBuildPlanGenerationContext.&lt;&gt;c__DisplayClass16_0.&lt;GetBuildMethod&gt;b__0(IBuilderContext context)
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Unity.Strategies.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Unity.Builder.BuilderContext.NewBuildUp(Type type, String name, Action`1 childCustomizationBlock)
+   at Unity.ResolverPolicy.NamedTypeDependencyResolverPolicy.Resolve(IBuilderContext context)
+   at lambda_method(Closure , IBuilderContext )
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicBuildPlanGenerationContext.&lt;&gt;c__DisplayClass16_0.&lt;GetBuildMethod&gt;b__0(IBuilderContext context)
+   at Unity.ObjectBuilder.BuildPlan.DynamicMethod.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Unity.Strategies.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Unity.UnityContainer.ThrowingBuildUp(IBuilderContext context)</StackTrace></InnerException></InnerException></Error>
+2018-12-29 17:01:13.4885|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:01:13.6261|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:01:13.6570|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:01:13.6710|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:01:29.1834|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:01:29.1944|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string><string>20</string><string>22</string></ArrayOfstring>
+2018-12-29 17:01:52.5633|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:01:52.5753|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string><string>20</string><string>22</string></ArrayOfstring>
+2018-12-29 17:01:54.3432|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:01:54.3547|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string><string>20</string><string>22</string></ArrayOfstring>
+2018-12-29 17:01:55.2150|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:01:55.2260|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string><string>20</string><string>22</string></ArrayOfstring>
+2018-12-29 17:01:57.9858|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:01:57.9968|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string><string>20</string><string>22</string></ArrayOfstring>
+2018-12-29 17:04:11.8407|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:04:11.9554|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:04:12.0172|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:04:12.0292|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:04:19.7014|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:04:19.7164|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string><string>20</string><string>22</string></ArrayOfstring>
+2018-12-29 17:04:22.3089|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:04:22.3189|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string><string>20</string><string>22</string></ArrayOfstring>
+2018-12-29 17:04:43.0649|INFO|RateCoffee.Api.Startup|
+2018-12-29 17:04:43.0768|INFO|RateCoffee.Api.Startup|<ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><string>1000</string><string>20</string><string>20</string><string>22</string></ArrayOfstring>

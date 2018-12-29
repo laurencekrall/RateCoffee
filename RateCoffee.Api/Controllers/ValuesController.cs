@@ -6,30 +6,40 @@ using System.Net.Http;
 using System.Web.Http;
 using Swashbuckle.Swagger.Annotations;
 using RateCoffee.Service;
+using NLog;
 
 namespace RateCoffee.Api.Controllers
 {
 	public class ValuesController : ApiController
 	{
-        RateCoffee.Service.ICoffeeRepo _repo;
+        ICoffeeService _coffeeService;
+        ILogger _logger;
 
-        public ValuesController(ICoffeeRepo repo)
+        public T ServiceCall<T>(Func<T> method)
         {
-            _repo = repo;
+            try
+            {
+                return method();
+            }
+            catch (Exception e)
+            {
+                _logger.Error(e);
+                throw new Exception("An internal error occured");
+            }
         }
 
-		//// GET api/values
-		//[SwaggerOperation("GetAll")]
-		//public IEnumerable<string> Get()
-		//{
-		//	return new string[] { "value1", "value2" };
-		//}
+        public ValuesController(ICoffeeService coffeeService, ILogger logger)
+        {
+            _coffeeService = coffeeService;
+            _logger = logger;
+        }
+
 		// GET api/values
 		[SwaggerOperation("GetAllData")]
 		public IEnumerable<string> Get()
 		{
-			var data = _repo.GetStuff();
-			return data;
+            var data = ServiceCall(() => _coffeeService.GetStuff());
+            return data;
 		}
 
 		// GET api/values/5
@@ -38,7 +48,7 @@ namespace RateCoffee.Api.Controllers
 		[SwaggerResponse(HttpStatusCode.NotFound)]
 		public string Get(int id)
 		{
-            var data = _repo.Add(id.ToString());
+            var data = _coffeeService.Add(id.ToString());
             return data.ToString();
         }
 

@@ -2,7 +2,7 @@
 
 namespace RateCoffee.Service
 {
-    public interface ICoffeeRepo
+    public interface ICoffeeService
     {
         bool Add(string value);
         List<string> GetStuff();

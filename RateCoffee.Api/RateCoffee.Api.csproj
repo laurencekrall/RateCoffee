@@ -207,6 +207,10 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\RateCoffee.Data\RateCoffee.Data.csproj">
+      <Project>{74b8fa14-366f-4e83-9647-e320a23804ff}</Project>
+      <Name>RateCoffee.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RateCoffee.Service\RateCoffee.Service.csproj">
       <Project>{0ce95f33-38be-449e-a288-c1545bf85639}</Project>
       <Name>RateCoffee.Service</Name>
