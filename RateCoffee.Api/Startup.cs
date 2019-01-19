@@ -16,6 +16,7 @@ namespace RateCoffee.Api
             HttpConfiguration config = new HttpConfiguration();
 
             config.MapHttpAttributeRoutes();
+            app.UseCors(Microsoft.Owin.Cors.CorsOptions.AllowAll);
 
             app.Use(typeof(LoggingMiddleware), NLog.LogManager.GetCurrentClassLogger());
             app.UseWebApi(config);
