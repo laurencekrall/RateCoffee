@@ -264,3 +264,4 @@ __pycache__/
 *.pyc
 *.pubxml
 /RateCoffee.Api/Connected Services/Application Insights/ConnectedService.json
+/RateCoffee.Api/token.json

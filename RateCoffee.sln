@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateCoffee.Data", "RateCoff
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateCoffee.Service", "RateCoffee.Service\RateCoffee.Service.csproj", "{0CE95F33-38BE-449E-A288-C1545BF85639}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateCoffee.GoogleApi", "RateCoffee.GoogleApi\RateCoffee.GoogleApi.csproj", "{4A95B1E8-8A60-4603-86EC-C177D07D16E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0CE95F33-38BE-449E-A288-C1545BF85639}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CE95F33-38BE-449E-A288-C1545BF85639}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CE95F33-38BE-449E-A288-C1545BF85639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A95B1E8-8A60-4603-86EC-C177D07D16E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A95B1E8-8A60-4603-86EC-C177D07D16E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A95B1E8-8A60-4603-86EC-C177D07D16E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A95B1E8-8A60-4603-86EC-C177D07D16E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

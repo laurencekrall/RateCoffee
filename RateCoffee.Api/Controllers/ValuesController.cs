@@ -7,6 +7,7 @@ using System.Web.Http;
 using Swashbuckle.Swagger.Annotations;
 using RateCoffee.Service;
 using NLog;
+using RateCoffee.GoogleApi;
 
 namespace RateCoffee.Api.Controllers
 {
@@ -14,6 +15,7 @@ namespace RateCoffee.Api.Controllers
 	{
         ICoffeeService _coffeeService;
         ILogger _logger;
+        GoogleApiService _GoogleApiService;
 
         public T ServiceCall<T>(Func<T> method)
         {
@@ -32,13 +34,14 @@ namespace RateCoffee.Api.Controllers
         {
             _coffeeService = coffeeService;
             _logger = logger;
+            _GoogleApiService = new GoogleApiService(new InstantiatedImageAnnotatorClient());
         }
 
 		// GET api/values
 		[SwaggerOperation("GetAllData")]
 		public IEnumerable<string> Get()
 		{
-            var data = ServiceCall(() => _coffeeService.GetStuff());
+            var data = _coffeeService.GetStuff();
             return data;
 		}
 
@@ -48,7 +51,7 @@ namespace RateCoffee.Api.Controllers
 		[SwaggerResponse(HttpStatusCode.NotFound)]
 		public string Get(int id)
 		{
-            var data = _coffeeService.Add(id.ToString());
+            var data = _GoogleApiService.GetSimilar();
             return data.ToString();
         }
 
